@@ -10,7 +10,7 @@ setuptools.setup(
     version="1.2.0",
     author="Ritik Kumar",
     author_email="rkumar2_be18@thapar.edu",
-    description="Technique for Oder Preference by Similarity to Ideal Solution.",
+    description="Technique for   Oder Preference by Similarity to Ideal Solution.",
     long_description=long_description,
     long_description_content_type='text/markdown',
     url="https://github.com/ritik-sys/TOPSIS_package",
